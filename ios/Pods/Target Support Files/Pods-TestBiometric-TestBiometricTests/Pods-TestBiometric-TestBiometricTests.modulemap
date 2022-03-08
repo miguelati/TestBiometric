@@ -1,0 +1,6 @@
+module Pods_TestBiometric_TestBiometricTests {
+  umbrella header "Pods-TestBiometric-TestBiometricTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
